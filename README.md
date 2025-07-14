@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @garyblip
+- 👋 Hi, I’m @garettkai
 - 👀 I’m interested in Linux, Java, Golang, Python
 - 🌱 I’m currently learning Rust, JavaScript
-- 📫 How to reach me ...
+- 📫 Learning by doing
 - 🎉  Seize the momentum
